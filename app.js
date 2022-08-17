@@ -1,4 +1,4 @@
-const colors = ['red', 'green', 'purple', 'pink', 'black'];
+const colors = ['red', 'green', 'yellow', 'indigo', 'blue', 'gray', 'cyan','purple', 'pink', 'black'];
 
 const container = document.getElementById('container')
 const title = document.querySelector('h2');
